@@ -9,12 +9,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :fire: my stats :
+### :fire: my stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jusses3101&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ---
-### :curly_haired_man: about me
+### :curly_haired_man: about me:
 
 :school: Finished Apprenticeship as Computer Scientist in Jan 2022 <br>
 :man_office_worker: Working as Software & Data Associate Engineer since Jan 2022 <br>

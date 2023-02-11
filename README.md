@@ -18,9 +18,9 @@
 ---
 ### :curly_haired_man: about me
 
-:school: Finished Apprenticeship as Computer Scientist in Jan 2022
-:man_office_worker: Working as Software & Data Associate Engineer since Jan 2022
-:university: Started Bachelor Studies in Data Science in Feb 2023
+:school: Finished Apprenticeship as Computer Scientist in Jan 2022 <br>
+:man_office_worker: Working as Software & Data Associate Engineer since Jan 2022 <br>
+:school: Started Bachelor Studies in Data Science in Feb 2023 <br>
 
 
 ---

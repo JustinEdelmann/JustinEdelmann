@@ -10,7 +10,7 @@
 </h1>
 
 ### :fire: my stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JustinEdelmann&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
